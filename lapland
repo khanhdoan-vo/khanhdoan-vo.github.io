@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <a href="index.html">Home</a> 
+    <a href="Turku.html"> Ancient Town Turku </a> 
+    <a href="Helsinki.html"> Capital Helsinki </a>
+    <h2> GO WITH US 2 - LAPLAND </h2>
+    Welcome back to the series “GO WITH US”! Today, we will bring you to a very special place in Finland - Santa Claus’s hometown.
+
+    Cre: Mike Arney
+    Santa Claus is so familiar to our childhood with many beautiful things. I did experience through that memorable time, I did believe in a true Father Christmas. However, when I’m older, I lots of time wondering whether Santa Claus exists. I guess you guys once had the same wondering as me. So, visit Lapland, you will get your answer.
+
+    <h3>1. About Lapland and Rovaniemi </h3>
+    <h4> a. Lapland </h4>
+    <p>Lapland is the Northernmost part of Finland that has many different phenomena in  each time and season. Winter is very special and significant with full of snow, which makes this area seem like a wonderland in fairy tales. Spring brings snow to cover all the hills that are very suitable for outdoor activities. Summer is the most different time in Lapland that sunlight can stay for 24 hours a day, which is called “white night”. Autumn in Lapland is covered by an iconic “ruska” colour. It is an ideal time to go hiking in many parks here. Due to the difference in many phenomena, there are also many more changes in each season. That is why the locals define Lapland with 8 seasons instead of 4 like others. </p>
+    <h4> b. Rovaniemi </h4>
+    <p> Rovaniemi is not only the center of education, economics and travelling in Finnish Lapland, but it is also the hometown of Santa Claus, where attracts visitors the most. Under the adventure view, Rovaniemi appears like the urban outpost in centre of wilderness. This place also includes the taiga forest, which is running through Russia to Scandinavia. For its beauty and wonder, Rovaniemi becomes the only one place where the visitors come to Lapland.</p>
+
+    <h3> 2. What is the ideal time to visit Lapland? </h3>
+    <p> It is highly recommended to visit Lapland in Winter, especially within December and March. It is the time that Lapland appears with the magical fairy tale world full of snow. While visiting this place in December, you will have more interesting activities celebrating the active, funny Christmas holiday, going to Lapland within January to March is suitable for Winter sport like skiing. Also, if you want to haunt the aurora, you should go here in March. </p>
+    <img src="Lapland%201.jpg" alt="Winter" />
+    <h6> Cre: Marc Linnemann, Unsplash </h6>
+
+    <h3> 3. How can we arrive in Lapland ? </h3>
+    
+    <h4>From Finland: to reach Lapland, you should start from Helsinki. There are 3 options for you: </h4>
+    <ul>
+    <li>Onnibus: you have to spend half of the day on the bus, but it is the cheapest one with 18-35€</li>
+    <li>VR Train: there are only two trips per day to Rovaniemi with 8-12 hours for one. The price will be flexible from 40€ (Summer) - 90€ (Winter)</li>
+    <li>Airplane: The national Airport supplies the flights directly to Rovaniemi with 70-100€ for one turn.</li>
+    </ul>
+<h4>From other areas: It is also available to take the flights from some European countries to Rovaniemi: England, Luxembourg, Turkey, Ukraine </h4>
+      <h3> 4. Where to go and what to do in Rovaniemi (Lapland)? </h3>
+      <h4 class="where"> a. Santa Claus Village: </h4>
+      <p> Santa Claus Office: It is located 8km far from the centre Rovaniemi. Going to Lapland without visiting Santa Claus Village means failing to achieve your goal at first. I’m pretty sure that all visitors can not pass this place on their trips. Santa Claus is living in the small cabin built on the Arctic Circle, where you can find him and his elves all the time in years. But it is suggested that you can meet him in the Summer if you are not able to wait for so long in Winter. There, you can make a meeting with Father Christmas, try the reindeer-pulled aledge and husky yapping. The entrance fee is free, but you have to pay for your activities.</p>
+      
+    <h4 class="where"> b. Arktikum Science Museum: </h4> 
+ <p> The museum displays many historic things to give visitors more information about the people, plants, animals from the first day in this special area. This is also the most obvious aurora seeing place. </p>
+    <h4 class="where"> c. Ounasvaara Ski:</h4> <p>This is a skiing park that offers you with 13 various slopes with many level. It is a good place for those who loves skiing, biking, cross-country skiing and snowshoe trails.</p>
+
+
+
+
+  </body>
+</html>
