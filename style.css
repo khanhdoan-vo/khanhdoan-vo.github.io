@@ -1,1 +1,63 @@
+body {
+  background-color: antiquewhite;
+  font-family: inherit;
+  font-style:italic;
+  color: rgb(38, 126, 96)
+}
+h1 {
+  text-align: center;
+  color: mediumvioletred;
+  font-size: 50px;
+  text-shadow: -3px 3px rgb(190, 137, 137);
+  font-style:normal;
+
+}
+h2 {
+  text-align: center;
+  font-family: cursive;
+  letter-spacing: 6px;
+  color: deeppink;
+}
+h3 {
+  color: #f49807;
+  font-style:normal;
+  font-family:sans-serif
+}
+h4{
+  font-size: 18px;
+  text-decoration:underline;
+  text-align: center;
+  color:rgb(121, 79, 29)
+  
+}
+h6{
+  text-align: right;
+  color: black;
+  
+}
+p {
+  font-style:normal;
+  color: rgb(94, 46, 116);
+  
+}
+ul {
+  font-style:normal;
+  color: rgb(94, 46, 116);
+
+}
+img{
+  width: 400px;
+  height: 300px;
+  float: right;
+  border-style:dotted;
+  border-color: darkred;
+  border-radius: 20px;
+}
+a{
+  color: red;
+  
+}
+.where{
+  color:rgb(105, 149, 247)
+}
 
