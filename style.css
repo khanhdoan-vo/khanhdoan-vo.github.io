@@ -2,7 +2,8 @@ body {
   background-color: antiquewhite;
   font-family: inherit;
   font-style:italic;
-  color: rgb(38, 126, 96)
+  color: rgb(38, 126, 96);
+  font-size: 15px;
 }
 h1 {
   text-align: center;
@@ -38,6 +39,7 @@ h6{
 p {
   font-style:normal;
   color: rgb(94, 46, 116);
+  font-size: 15px;
   
 }
 ul {
