@@ -38,7 +38,7 @@ img{
 a{
   color: red;
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
   font-family: fantasy;
   padding-top: 100px;
   
@@ -49,6 +49,7 @@ a{
   grid-template-columns: auto auto auto;
   background-color: rgb(196, 225, 215);
   padding: 10px;
+     border: 1px solid rgba(0, 0, 0, 0.8);
 }
 .grid-item1 {
    font-size: 40px;
