@@ -20,22 +20,8 @@ h2 {
   color: deeppink;
   font-size: 30px;
 }
-h3 {
-  color: #f49807;
-  font-style:normal;
-  font-family:sans-serif
-}
-h4{
-  font-size: 18px;
-  text-decoration:underline;
-  text-align: center;
-  color:rgb(121, 79, 29)
-  
-}
-h6{
-  text-align: right;
-  color: black;
-  
+
+
 }
 p {
   font-style:normal;
@@ -43,26 +29,21 @@ p {
  
   
 }
-ul {
-  font-style:normal;
-  color: rgb(94, 46, 116);
 
-}
 img{
-  width: 400px;
-  height: 300px;
-  float: right;
-  border-style:dotted;
-  border-color: darkred;
+  max-width:100%;
+  max-height: 100%;
   border-radius: 20px;
 }
 a{
   color: red;
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+  padding-top: 100px;
   
 }
-.where{
-  color:rgb(105, 149, 247)
-}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -85,11 +66,4 @@ a{
    font-family: cursive;
     border: 1px solid rgba(0, 0, 0, 0.8);
 
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: left;
-}
 
