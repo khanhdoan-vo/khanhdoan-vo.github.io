@@ -1,3 +1,8 @@
+.img{
+  width:400px;
+  height: 300px;
+  border-radius: 20px;
+}
 body {
   background-color: antiquewhite;
   font-family: inherit;
@@ -30,11 +35,7 @@ p {
   
 }
 
-.grid-item img{
-  width:400px;
-  height: 300px;
-  border-radius: 20px;
-}
+
 
 
 .grid-container {
